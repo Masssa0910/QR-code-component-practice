@@ -1,0 +1,44 @@
+.info {
+    background-color: rgb(255, 255, 255);
+    height: 422px;
+    width: 298px;
+    position: absolute;
+    top: 13%;
+    left: 41%;
+    border-radius: 19px;
+}
+.img1 {
+    width: 248px;
+    height: 250px;
+    border-radius: 16px;
+    position: relative;
+    top: 4%;
+    left: 8%;
+}
+body {
+    background-color: hsl(219, 16%, 80%);
+    font-family: 'Outfit', sans-serif;
+}
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    position: relative;
+    left: 13%;
+    top: 3%;
+    color: hsl(218, 44%, 22%);
+}
+.text1 {
+    font-size: 16px;
+    color:  rgb(112,128,144);
+    position: relative;
+    top: 2%;
+    left: 6%;
+}
+.text2 {
+    font-size: 16px;
+    position: relative;
+    top: -2%;
+    left: 32%;
+    color:  rgb(112,128,144);
+}
